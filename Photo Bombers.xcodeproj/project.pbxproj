@@ -13,6 +13,7 @@
 		3FAE98931A2279EB00FA2FD1 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3FAE98921A2279EB00FA2FD1 /* Images.xcassets */; };
 		3FAE98961A2279EB00FA2FD1 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3FAE98941A2279EB00FA2FD1 /* LaunchScreen.xib */; };
 		3FAE98A21A2279EB00FA2FD1 /* Photo_BombersTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FAE98A11A2279EB00FA2FD1 /* Photo_BombersTests.swift */; };
+		3FAE98AC1A227ACC00FA2FD1 /* THPhotosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FAE98AB1A227ACC00FA2FD1 /* THPhotosViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		3FAE989B1A2279EB00FA2FD1 /* Photo BombersTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Photo BombersTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3FAE98A01A2279EB00FA2FD1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3FAE98A11A2279EB00FA2FD1 /* Photo_BombersTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Photo_BombersTests.swift; sourceTree = "<group>"; };
+		3FAE98AB1A227ACC00FA2FD1 /* THPhotosViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = THPhotosViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				3FAE98921A2279EB00FA2FD1 /* Images.xcassets */,
 				3FAE98941A2279EB00FA2FD1 /* LaunchScreen.xib */,
 				3FAE98891A2279EB00FA2FD1 /* Supporting Files */,
+				3FAE98AB1A227ACC00FA2FD1 /* THPhotosViewController.swift */,
 			);
 			path = "Photo Bombers";
 			sourceTree = "<group>";
@@ -213,6 +216,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3FAE988E1A2279EB00FA2FD1 /* ViewController.swift in Sources */,
+				3FAE98AC1A227ACC00FA2FD1 /* THPhotosViewController.swift in Sources */,
 				3FAE988C1A2279EB00FA2FD1 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
